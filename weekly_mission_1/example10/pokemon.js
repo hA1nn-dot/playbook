@@ -1,4 +1,5 @@
 /*
+    Version de modularizacion ECMA
   export default nos permite exportar esta clase e importara
 
   import className from './className.js'

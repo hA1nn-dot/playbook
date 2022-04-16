@@ -3,7 +3,7 @@ class Pokemon {
     this.name = pokemonName;
   }
 
-  sayHello = (message) => {
+  sayHello = () => {
     console.log(`Mi pokemon ${this.name} te saluda!!`);
   };
 
@@ -13,6 +13,7 @@ class Pokemon {
 }
 
 /*
+Version de modularizacion de CommonJS
 Exportar la clase con module
 Para que se pueda usar en el archivo main.js
 */
