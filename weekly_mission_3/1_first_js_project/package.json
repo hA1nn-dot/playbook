@@ -4,9 +4,12 @@
   "description": "My first proyecto with jist npm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node ./node_modules/jest/bin/jest.js",
     "start": "node index.js"
   },
   "author": "Haim Guel",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
