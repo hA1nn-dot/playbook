@@ -8,5 +8,5 @@ Proyectos desarrollados en la semana 4:
 |`Contribution PR`|3|[Link al repo](https://github.com/hA1nn-dot/fizzbuzz)|
 |`Code Challenge`|4|[Link al repo](https://github.com/hA1nn-dot/Code-challenge-LaunchX)|
 |`Code Challenge`|4, 5|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
-|`Trello`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`Trello`|6|[Link a la documentación](https://documenter.getpostman.com/view/20799662/UyrHfYkE)|
 |`Trello JS Fork`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
